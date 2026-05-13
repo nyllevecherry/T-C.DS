@@ -5,49 +5,32 @@
 "img": "bolo_de_chocolate.jpg",
 "ingredientes":{
 "Massa":[
-"1 xícara e meia (chá) de leite",
-"1 colher (sopa) de suco de limão",
-"1 xícara de (chá) de manteiga sem sal em temperatura ambiente",
+"5 ovos",
+"1 xícara de chá de leite",
+"1 xícara de chá de açúcar",
 "1 xícara e meia de (chá) de açucar",
-"3 ovos",
-"1 colher (sopa) de essência de baunilha",
-"1 xícara e meia (chá) de farinha de trigo",
-"1 colher (sopa) de Chocolate em Pó 50%",
-"1 colher e meia (sopa) de fermento em pó",
-"1 colher (chá) de corante líquido vermelho"
+"1 xícara de chocolate em pó ",
+"2 xícaras de farinha de trigo",
+"1 colher de sopa de fermento em pó"
 ],
 "Cobertura":[
-"2 xícaras (chá) de cream cheese (450 g)",
-"meia xícara (chá) de manteiga sem sal em temperatura ambiente",
-"1 colher (sopa) de essência de baunilha",
-"1 xícara e meia (chá) de açúcar de confeiteiro peneirado"
+"2 latas de leite condensado",
+"3 colheres de sopa de chocolate em pó",
+"1 colher de sopa de margarina",
+"1 lata de creme de leite (ou até dar o ponto)",
+"Coco ralado Dr. Oetker ou chocolate granulado Dr. Oetker ou nozes picadas ou raspas de chocolate a gosto para cobrir"
 ]
 },
-"utensilios": ["Fouet","Tigela grande","Xícara","Colher de sopa","Forma","Forno"],
+"utensilios": ["Panela","Bowl","Colher de pau","Formo de bolo","Forno elétrico","Peneira"],
 "passos":{
 "Massa":[
-"1° Em um recipiente, misture o Leite NINHO com o suco de limão. Reserve até talhar.",
-"2° Em uma batedeira, bata a manteiga com o açúcar até obter uma mistura esbranquiçada.",
-"3° Com a batedeira ligada, adicione os ovos, um a um. Acrescente a baunilha e bata.",
-"4° Em um recipiente, peneire a farinha de trigo, o Chocolate em Pó NESTLÉ e o fermento.",
-"5° Com a batedeira ligada em velocidade baixa, vá intercalando a adição do leite com o suco de limão e dos ingredientes secos peneirados.",
-"6º Adicione o corante e misture bem.",
-"7º A cor da massa deve ficar bem vermelha, se necessário, adicione mais corante.",
-"8º Despeje a mistura em uma forma redonda alta (20x15cm) ou em três formas redondas (20 cm) forrada com papel manteiga no fundo e laterais",
-"9º leve para assar em forno médio (180°C) preaquecido, por cerca de 50 minutos."
+"1° Bata as claras em neve bem firmes, acrescente as gemas uma a uma, o açúcar, e continue batendo. Depois o leite bem aos pouquinhos, desligue e peneire para cima da massa a farinha e o chocolate Dr. Oetker e mexa delicadamente.",
+"2° Por último coloque o fermento Dr. Oetker e misture, a massa deve ficar bem leve e fofa parecendo espuma, por isso coloque o leite aos poucos para não perder o ponto.",
+"3° Coloque em uma forma (mais ou menos 26x33 cm ou de 30cm de diâmetro) untada e enfarinhada (se preferir unte a forma e polvilhe chocolate em pó Dr. Oetker, substituindo a farinha, assim o bolo ficará mais escrurinho). Asse em forno médio, até que enfiando um palito ele saia limpo, mais ou menos 15 minutos, dependendo do forno.",
 ],
 "Cobertura":[
-"1° Em uma batedeira, bata o cream cheese com a manteiga até obter um creme bem liso.",
-"2° Adicione a essência de baunilha e bata.",
-"3° Adicione o açúcar de confeiteiro e bata bem. Reserve na geladeira.",
-"4º Com a massa já fria, corte-a no sentido horizontal em 3 partes ou, se tiver assado em formas separadas",
-"5º Desenforme os três discos de massa.",
-"6º Utilize a própria forma que assou o bolo para fazer a montagem.",
-"7º Coloque uma das partes da massa e coloque uma camada de recheio.",
-"8º Coloque a outra massa e mais um pouco de recheio, finalizando com a última massa.",
-"9º Leve ao freezer por cerca de 1 hora.",
-"10º Desenforme o bolo e cubra com a cobertura.",
-"11º Utilize os próprios farelos do bolo e frutas vermelhas para a decoração."
+"1° Leve ao fogo médio/baixo em uma panela: o leite condensado, o chocolate em pó Dr. Oetker e a margarina até desgrudar da panela (ponto de brigadeiro), espere esfriar e acrescente o creme de leite aos poucos e vá mexendo até ficar bem cremoso e fácil de espalhar.",
+"2° Corte o bolo em 2 partes e cubra com o recheio de brigadeiro. Polvilhe coco ralado ou nozes ou chocolate granulado ou em raspas e sirva.",
 ]
 },
 "videoUrl": "https://raw.githubusercontent.com/nyllevecherry/T-C.DS/main/videos/chocolate.mp4?raw=true"
